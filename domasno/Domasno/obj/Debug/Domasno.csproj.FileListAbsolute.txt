@@ -1,0 +1,7 @@
+C:\Users\IvanA\Desktop\C#\4-class\domasno\Domasno\bin\Debug\Domasno.exe.config
+C:\Users\IvanA\Desktop\C#\4-class\domasno\Domasno\bin\Debug\Domasno.exe
+C:\Users\IvanA\Desktop\C#\4-class\domasno\Domasno\bin\Debug\Domasno.pdb
+C:\Users\IvanA\Desktop\C#\4-class\domasno\Domasno\obj\Debug\Domasno.csprojAssemblyReference.cache
+C:\Users\IvanA\Desktop\C#\4-class\domasno\Domasno\obj\Debug\Domasno.csproj.CoreCompileInputs.cache
+C:\Users\IvanA\Desktop\C#\4-class\domasno\Domasno\obj\Debug\Domasno.exe
+C:\Users\IvanA\Desktop\C#\4-class\domasno\Domasno\obj\Debug\Domasno.pdb
